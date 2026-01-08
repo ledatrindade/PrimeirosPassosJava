@@ -1,6 +1,7 @@
 # ☕ Primeiros Passos com Java
 
 Bem-vindo(a) ao **Primeiros Passos com Java** 🚀  
+
 Este repositório reúne meus estudos iniciais e intermediários em **Java**, explorando desde os fundamentos da linguagem até conceitos importantes da **Programação Orientada a Objetos**, **Collections**, **Datas**, **Threads** e **Boas práticas**.
 
 O objetivo aqui é **aprender na prática**, com exemplos simples, organizados por tema e fáceis de entender.
@@ -23,6 +24,7 @@ Os exemplos estão organizados por **pacotes temáticos**, facilitando o estudo 
 
 ### 📦 `apis`
 Exemplos de uso de APIs e conceitos mais avançados:
+
 - Uso de **Streams**
 - **Generics**
 - Simulação de uma **Caixa** com testes
@@ -32,6 +34,7 @@ Exemplos de uso de APIs e conceitos mais avançados:
 
 ### 📦 `arrays`
 Fundamentos das estruturas de dados:
+
 - Arrays
 - List
 - Set
@@ -41,6 +44,7 @@ Fundamentos das estruturas de dados:
 
 ### 📦 `datecalendar`
 Trabalhando com datas no Java:
+
 - Classe `Date`
 - Classe `Calendar`
 - Diferenças e exemplos práticos
@@ -49,6 +53,7 @@ Trabalhando com datas no Java:
 
 ### 📦 `studytime`
 Estudos com a API moderna de datas (`java.time`):
+
 - `LocalDate`
 - `LocalTime`
 - `LocalDateTime`
@@ -68,6 +73,7 @@ Conceitos importantes da linguagem:
 
 ### 📦 `Strings`
 Manipulação de textos:
+
 - `String`
 - `StringBuilder`
 - `StringBuffer`
@@ -77,6 +83,7 @@ Manipulação de textos:
 
 ### 📦 `threadrunnable`
 Introdução à programação concorrente:
+
 - Criação de Threads
 - Implementação de `Runnable`
 - Controle de execução
@@ -86,6 +93,7 @@ Introdução à programação concorrente:
 
 ### 📦 `disney` 🏰
 Exemplos lúdicos com foco em POO:
+
 - Classes
 - Herança
 - Organização de código
@@ -95,6 +103,7 @@ Exemplos lúdicos com foco em POO:
 
 ### 📦 `marvel` 🦸
 Exploração de conceitos avançados de POO:
+
 - Herança
 - Polimorfismo
 - Classes abstratas
