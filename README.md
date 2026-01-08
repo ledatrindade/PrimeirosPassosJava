@@ -5,7 +5,7 @@ Este repositório reúne meus estudos iniciais e intermediários em **Java**, ex
 
 O objetivo aqui é **aprender na prática**, com exemplos simples, organizados por tema e fáceis de entender.
 
----
+
 
 ## 🎯 Objetivo do Repositório
 
@@ -15,7 +15,7 @@ O objetivo aqui é **aprender na prática**, com exemplos simples, organizados p
 - Entender o funcionamento das principais APIs do Java
 - Criar uma base sólida para projetos maiores
 
----
+
 
 ## 📂 Organização do Projeto
 
@@ -28,7 +28,7 @@ Exemplos de uso de APIs e conceitos mais avançados:
 - Simulação de uma **Caixa** com testes
 - Processamento de dados com Stream API
 
----
+
 
 ### 📦 `arrays`
 Fundamentos das estruturas de dados:
@@ -37,7 +37,7 @@ Fundamentos das estruturas de dados:
 - Set
 - Comparação entre coleções
 
----
+
 
 ### 📦 `datecalendar`
 Trabalhando com datas no Java:
@@ -45,7 +45,7 @@ Trabalhando com datas no Java:
 - Classe `Calendar`
 - Diferenças e exemplos práticos
 
----
+
 
 ### 📦 `studytime`
 Estudos com a API moderna de datas (`java.time`):
@@ -55,7 +55,7 @@ Estudos com a API moderna de datas (`java.time`):
 - `OffsetDate`
 - `OffsetDateTime`
 
----
+
 
 ### 📦 `mapWrappers`
 Conceitos importantes da linguagem:
@@ -64,7 +64,7 @@ Conceitos importantes da linguagem:
 - Classes Wrapper
 - Diferenças entre primitivos e objetos
 
----
+
 
 ### 📦 `Strings`
 Manipulação de textos:
@@ -73,7 +73,7 @@ Manipulação de textos:
 - `StringBuffer`
 - Diferenças de desempenho e uso
 
----
+
 
 ### 📦 `threadrunnable`
 Introdução à programação concorrente:
@@ -82,7 +82,7 @@ Introdução à programação concorrente:
 - Controle de execução
 - Simulação de tarefas concorrentes
 
----
+
 
 ### 📦 `disney` 🏰
 Exemplos lúdicos com foco em POO:
@@ -91,7 +91,7 @@ Exemplos lúdicos com foco em POO:
 - Organização de código
 - Personagens como objetos
 
----
+
 
 ### 📦 `marvel` 🦸
 Exploração de conceitos avançados de POO:
@@ -101,7 +101,7 @@ Exploração de conceitos avançados de POO:
 - Interfaces
 - Poderes e comportamentos específicos
 
----
+
 
 ## 🧠 Conceitos Trabalhados
 
@@ -114,7 +114,7 @@ Exploração de conceitos avançados de POO:
 ✔️ Organização de pacotes  
 ✔️ Boas práticas de código  
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -122,7 +122,7 @@ Exploração de conceitos avançados de POO:
 - IntelliJ IDEA / Eclipse
 - Git e GitHub
 
----
+
 
 ## ▶️ Como Executar
 
@@ -134,7 +134,7 @@ Exploração de conceitos avançados de POO:
 
 3. Execute as classes que possuem o método main.
 
----
+
 
 ## 💡 Observações
 
